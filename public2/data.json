@@ -1,0 +1,241 @@
+{
+  "1": {
+    "titulo": "Filosofia Contemporanea",
+    "contenido_historia": "La filosofía contemporánea es una forma de pensar y reflexionar que empezó en los últimos siglos y trata sobre temas muy actuales, como la libertad, la justicia, la tecnología, el medio ambiente y cómo vivimos juntos en sociedad. Filósofos como Simone de Beauvoir, Martin Heidegger o Ludwig Wittgenstein se preguntaban cosas como: ¿Qué significa ser feliz?, ¿cómo usamos el lenguaje para entendernos?, o ¿cómo hacer del mundo un lugar más justo? Esta parte de la filosofía ayuda a las personas a pensar por sí mismas, a respetar otras opiniones y a encontrar soluciones para mejorar el mundo en el que vivimos hoy.",
+    "titulo_filosofo_1": "Alain Badiou",
+    "info_base_1" : "n. 1937 - Francia. revolucionar la filosofía moderna utilizando herramientas de las matemáticas (especialmente la teoría de conjuntos) y por reintroducir conceptos como verdad, sujeto, evento y fidelidad en un contexto filosófico post-estructuralista.",
+    "contenido_1" :" Badiou es un filósofo francés que también ha sido novelista, dramaturgo y profesor. Le interesa mucho la política, las matemáticas y el amor como formas de verdad. Dice que los momentos más importantes de la vida son cuando algo nuevo aparece y cambia todo, como una revolución o un gran descubrimiento. Cree que la filosofía debe ayudarnos a pensar más allá de lo común y comprometernos con causas justas.",
+    "imagen_1" : "alan_cont_1.jpg",
+
+    "titulo_filosofo_2": "Gayatri Spivak",
+    "info_base_2" : "n. 1942 - India. teoría crítica y feminismo. Su trabajo ha sido clave para poner en el centro del debate académico global las voces marginadas, especialmente de mujeres del Sur Global.",
+    "contenido_2" :"Spivak es una filósofa, escritora y crítica literaria nacida en India. Es famosa por defender a las personas que han sido ignoradas o silenciadas en la historia, como las mujeres pobres del sur global. Habla sobre el poscolonialismo, es decir, lo que pasa después del colonialismo, y sobre cómo las voces oprimidas pueden encontrar una forma de hablar. Su trabajo mezcla literatura, política y filosofía.",
+    "imagen_2" : "gayatri_cont_1.jpg",
+
+    "titulo_filosofo_3": "John Searle",
+    "info_base_3" : "n. 1932 - Estados Unidos. el lenguaje y la conciencia. Es conocido por sus críticas a la inteligencia artificial fuerte, su teoría de los actos de habla y por explorar cómo construimos la realidad social mediante el lenguaje.",
+    "contenido_3" :"Searle es un filósofo estadounidense que ha trabajado principalmente en la filosofía del lenguaje y de la mente. Es conocido por el experimento mental llamado “El cuarto chino”, donde cuestiona si las computadoras pueden realmente “entender” como los humanos. Searle cree que el lenguaje crea realidades sociales (como promesas, leyes o dinero), y que la conciencia humana es real y no puede ser explicada solo por máquinas.",
+    "imagen_3" : "john_cont_1.jpg",
+
+    "titulo_filosofo_4": "Bruno Latour",
+    "info_base_4" : "1947 - 2022 - Francia. revolucionó la manera en que entendemos la ciencia, la tecnología y la sociedad. Es uno de los pensadores más influyentes en los campos de los estudios de ciencia y tecnología",
+    "contenido_4" :"Latour fue un filósofo y sociólogo francés muy importante en el estudio de la ciencia. Decía que la ciencia no es solo hechos objetivos, sino también una actividad humana que mezcla ideas, personas y tecnología. Propuso que los objetos y las personas juntos forman redes, y que no se puede separar del todo la naturaleza de la sociedad. También reflexionó mucho sobre el medio ambiente y el cambio climático.",
+    "imagen_4" : "bruno_cont_1.jpg",
+
+    "titulo_filosofo_5": "Charles Taylor",
+    "info_base_5" : "n. 1931 - Canadá. la ética y la teoría del reconocimiento. Es conocido por sus aportes al multiculturalismo, su defensa del humanismo moderno y su crítica al reduccionismo de la ciencia sobre el ser humano.",
+    "contenido_5" :"Taylor es un filósofo canadiense conocido por su trabajo sobre la identidad, la cultura y la política. Habla sobre cómo las personas construyen su sentido de quiénes son dentro de su sociedad, religión o historia. Ha defendido el diálogo entre culturas y la importancia de respetar la diversidad en un mundo globalizado. Es una figura clave en la filosofía moral y política actual.",
+    "imagen_5" : "charles_cont_1.jpg",
+
+    "titulo_filosofo_6": "Slavo",
+    "info_base_6" : "Crítico cultural, filósofo, sociólogo y psicoanalista esloveno nacido en 1949. ",
+    "contenido_6" :"Crítico cultural, filósofo, sociólogo y psicoanalista esloveno nacido en 1949. Su obra se centra en el pensamiento de Jacques Lacan y el materialismo dialéctico, aplicándolos a la teoría de la cultura popular. Identificó tres categorías para explicar la cultura contemporánea: lo real, lo imaginario y lo simbólico.",
+    "imagen_6" : "slavo_1.jpg",
+
+    "titulo_filosofo_7": "Jean-Paul Sartre",
+    "info_base_7" : "Filósofo y literato francés nacido en 1905 y fallecido en 1980",
+    "contenido_7" :"Filósofo y literato francés nacido en 1905 y fallecido en 1980. Fue el principal representante del existencialismo, una corriente que destaca la libertad individual y la responsabilidad. Su filosofía se basa en la distinción entre el ser en sí y el ser para sí, y considera que la libertad es una condena que nos obliga a elegir continuamente.",
+    "imagen_7" : "jean_2.jpg",
+
+    "titulo_filosofo_8": "María Zambrano",
+    "info_base_8" : "Filósofa española nacida en 1904 y fallecida en 1991",
+    "contenido_8" :"Filósofa española nacida en 1904 y fallecida en 1991. Su filosofía se mueve entre la ética y la poesía, y se caracteriza por un estilo único de escribir. Zambrano habla de dos tipos de actitud: la actitud filosófica, que se origina cuando el ser humano se hace preguntas, y la actitud poética, que es la respuesta a esas preguntas.",
+    "imagen_8" : "maria_1.jpg",
+
+    "titulo_filosofo_9": "Karl Marx",
+    "info_base_9" : "Filósofo alemán nacido en 1818 y fallecido en 1883",
+    "contenido_9" :"Fue uno de los principales representantes de la filosofía contemporánea y su obra se basa en la crítica al capitalismo y la lucha de clases. Marx desarrolló el materialismo histórico, que sostiene que la tensión entre la clase obrera y el capitalismo llevará irremediablemente a la destrucción del sistema.",
+    "imagen_9" : "karl_1.jpg",
+
+    "titulo_filosofo_10": "Friedrich Nietzsche",
+    "info_base_10" : ": Filósofo alemán nacido en 1844 y fallecido en 1900",
+    "contenido_10" :"Filósofo alemán nacido en 1844 y fallecido en 1900. Su filosofía vitalista ejerció una fuerte influencia en la cultura occidental y se caracteriza por su crítica a la metafísica, la moral y la religión. Nietzsche defendió la idea del superhombre y la voluntad de poder creadora, y consideró que la humanidad debe superar sus valores actuales para crear unos nuevos",
+    "imagen_10" : "fried_1.jpg",
+
+    "carateristica_1": "Pluralismo filosófico No hay una única escuela dominante conviven corrientes como el existencialismo, el marxismo, el pragmatismo, la fenomenología, el estructuralismo, el posmodernismo, etc. Crítica a la razón absoluta Se pone en duda la idea ilustrada de que la razón puede explicar todo; se valora la ambigüedad, el contexto y la subjetividad.",
+    "beneficios_1" : "Fomenta el pensamiento crítico Ayuda a cuestionar supuestos, ideologías, sistemas de poder y estructuras sociales. Aborda problemas actuales Trata temas como el cambio climático, inteligencia artificial, desigualdad, migración, identidad de género, etc. Abre espacios al diálogo intercultural Favorece el reconocimiento de culturas, voces y perspectivas históricamente marginadas. Contribuye a la ética pública Proporciona herramientas para pensar sobre justicia, derechos, responsabilidad y bien común. Integra ciencia y humanismo Busca comprender el papel del ser humano en un mundo tecnificado y globalizado.",
+    "momento_historia_1" : "Idealismo alemán: Con pensadores como Hegel, que desarrolló la idea del espíritu y la historia como procesos de desarrollo racional.",
+    "momento_historia_2" : "Marxismo: Karl Marx propuso una filosofía basada en la economía y la lucha de clases, influida por Hegel pero centrada en cambiar el mundo real.",
+    "momento_historia_3" : "Filosofía de la vida: Con Nietzsche, quien criticó la moral tradicional y proclamó la muerte de Dios"
+  },
+  "2": {
+    "titulo": "Filosofia Griega",
+    "contenido_historia": "La historia de la filosofía griega comenzó en el siglo VI a.C., cuando algunos sabios empezaron a preguntarse cómo funciona el mundo, por qué pasan las cosas y qué significa vivir bien. Estos pensadores no se conformaban con las explicaciones mágicas o mitológicas, sino que buscaban respuestas usando la razón. Uno de los primeros fue Tales de Mileto, quien dijo que todo venía del agua. Luego, Anaximandro pensó que el origen de todo era una sustancia sin forma, y Pitágoras estudió los números como base del universo. Más tarde, apareció Sócrates, un maestro muy sabio que enseñaba a pensar haciendo preguntas. Su alumno Platón hablaba de un mundo de ideas perfectas, y su discípulo Aristóteles investigó la naturaleza, los animales, la lógica y cómo ser buenos ciudadanos.",
+    
+    "titulo_filosofo_1": "Aristoteles",
+    "info_base_1" : "fue uno de los filósofos más influyentes de la historia, y sus contribuciones abarcan una enorme variedad de campos del conocimiento.",
+    "contenido_1" :"filósofo griego nacido en el año 384 a.C. en Estagira, una ciudad de Macedonia. Fue alumno de Platón y maestro de Alejandro Magno. Fundó su propia escuela en Atenas llamada el Liceo. Estudió muchos temas como la lógica, la ética, la política, la biología y la física. A diferencia de su maestro Platón, Aristóteles creía que el conocimiento venía de observar la realidad. Murió en el año 322 a.C., pero sus ideas siguen siendo muy importantes hasta hoy",
+    "imagen_1" : "aristoteles_cont_1.jpg",
+
+    "titulo_filosofo_2": "Platon",
+    "info_base_2" : " filósofos más importantes de la historia y discípulo de Sócrates. Fundó las bases de gran parte del pensamiento occidental.",
+    "contenido_2" :"Platón fue un importante filósofo griego que nació en Atenas en el año 427 a.C. Fue discípulo de Sócrates y maestro de Aristóteles. Fundó una escuela muy famosa llamada la Academia, donde se enseñaba filosofía, matemáticas y ciencia. Platón creía que el mundo que vemos no es el verdadero, sino una copia de otro mundo perfecto: el mundo de las ideas. Escribió muchos libros en forma de diálogos, donde uno de los personajes principales es siempre Sócrates. Gracias a él conocemos mucho de lo que enseñaba su maestro. Platón murió en el año 347 a.C., pero sus ideas siguen siendo estudiadas hasta hoy.",
+    "imagen_2" : "platon_cont_1.jpg",
+
+    "titulo_filosofo_3": "Sócrates",
+    "info_base_3" : "aunque no dejó nada escrito. Todo lo que sabemos de él viene principalmente de sus discípulos, especialmente Platón y Jenofonte.",
+    "contenido_3" :"Sócrates nació en Atenas en el año 470 a.C. y es considerado uno de los padres de la filosofía. A diferencia de otros filósofos, no escribió libros, sino que enseñaba hablando con las personas en las calles de Atenas. Usaba un método llamado mayéutica, que consistía en hacer muchas preguntas para que los demás encontraran las respuestas por sí mismos. Fue maestro de Platón. Su forma de enseñar molestó a algunos poderosos, y fue condenado a muerte por corromper a los jóvenes. Murió en el año 399 a.C. bebiendo un veneno llamado cicuta. Su enseñanza principal fue: Conócete a ti mismo",
+    "imagen_3" : "socrates_cont_1.jpg",
+
+    "titulo_filosofo_4": "Heráclito",
+    "info_base_4" : "presocrático que hizo aportes fundamentales a la filosofía antigua, especialmente en relación con el cambio, la unidad de los opuestos y la naturaleza del mundo.",
+    "contenido_4" :"fue un filósofo griego que nació en Éfeso, una ciudad de Asia Menor, en el siglo VI a.C. Es famoso por decir que todo cambia todo el tiempo. Su frase más conocida es: “Nadie se baña dos veces en el mismo río”, porque el agua del río siempre fluye, y nosotros también cambiamos. Creía que el mundo está en constante movimiento y que el fuego es el principio que da origen a todas las cosas. Aunque escribió un libro, sus ideas eran difíciles de entender y por eso le llamaban el oscuro",
+    "imagen_4" : "heraclito_cont_1.jpg",
+
+    "titulo_filosofo_5": "Pitágoras",
+    "info_base_5" : "filósofo y matemático griego que hizo importantes aportes a las matemáticas, la música, la filosofía y la religión. Aunque no dejó escritos propios, su escuela influyó profundamente en el pensamiento occidental.",
+    "contenido_5" :"Pitágoras nació en la isla de Samos alrededor del año 570 a.C. Fue un filósofo y matemático muy importante. Fundó una escuela en el sur de Italia, donde sus seguidores combinaban la filosofía con las matemáticas y creencias espirituales. Pitágoras pensaba que todo en el universo se podía explicar con números. Es muy conocido por el Teorema de Pitágoras, que se usa para calcular lados de triángulos. También creía en la reencarnación, es decir, que el alma renace en otros cuerpos. Murió hacia el año 495 a.C., pero su legado en las matemáticas sigue vivo.",
+    "imagen_5" : "pitagora_cont_1.jpg",
+
+    "titulo_filosofo_6": "Tales",
+    "info_base_6" : "Tales de Mileto fue uno de los primeros filósofos griegos y se le considera uno de los siete sabios de Grecia",
+    "contenido_6" :"Fue un matemático y astrónomo que predijo eclipses solares y desarrolló teorías sobre la geometría y la astronomía. Tales creía que el agua era el principio fundamental del universo y que la Tierra flotaba en el agua. También se le atribuye la predicción de la cosecha de aceitunas y la creación de un modelo para calcular la altura de las pirámides.",
+    "imagen_6" : "tales_1.jpg",
+
+    "titulo_filosofo_7": "Jenofanes",
+    "info_base_7" : "Jenófanes fue un filósofo presocrático que criticó la religión tradicional griega y desarrolló una visión monoteísta del universo",
+    "contenido_7" :"Creía que había un solo dios que era inmutable y omnisciente, y que no tenía forma humana. Jenófanes también creía que la verdad era difícil de alcanzar y que la sabiduría humana era limitada. Sus críticas a la religión tradicional griega se centraron en la idea de que los dioses eran antropomórficos y que la religión era una creación humana.",
+    "imagen_7" : "jenofanes_1.jpg",
+
+    "titulo_filosofo_8": "Aristarco",
+    "info_base_8" : "Aristarco fue un astrónomo y matemático griego que propuso el primer modelo heliocéntrico del universo",
+    "contenido_8" :"Aristarco fue un astrónomo y matemático griego que propuso el primer modelo heliocéntrico del universo, donde el Sol era el centro del sistema solar. Aunque su teoría no fue ampliamente aceptada en su época, sentó las bases para futuras teorías astronómicas. Aristarco también calculó la distancia entre la Tierra y el Sol, y desarrolló una teoría sobre la rotación de la Tierra.",
+    "imagen_8" : "aristarco_1.jpg",
+
+    "titulo_filosofo_9": "Empedocles",
+    "info_base_9" : "Empédocles fue un filósofo presocrático que desarrolló una teoría de los cuatro elementos ",
+    "contenido_9" :"También creía en la reencarnación y la transmigración de las almas. Empédocles creía que el amor y la lucha eran las fuerzas fundamentales que gobernaban el universo, y que la realidad era una mezcla de estos elementos y fuerzas. Su teoría de los cuatro elementos fue influyente en la filosofía y la ciencia griegas.",
+    "imagen_9" : "empedocoles_1.jpg",
+
+    "titulo_filosofo_10": "Epicarmo",
+    "info_base_10" : "Epicarmo fue un filósofo y poeta griego que se cree que fue uno de los primeros en desarrollar la comedia griega",
+    "contenido_10" :"Epicarmo fue un filósofo y poeta griego que se cree que fue uno de los primeros en desarrollar la comedia griega. Sus obras filosóficas se centraban en la naturaleza de la realidad y la condición humana. Epicarmo creía que la sabiduría humana era limitada y que la verdad era difícil de alcanzar. Sus obras también abordaban temas como la moralidad y la ética.",
+    "imagen_10" : "epicarmo_1.jpg",
+
+    "carateristica_1": "Una característica fundamental de la filosofía griega es el uso de la razón para entender el mundo. A diferencia de las explicaciones mitológicas, los filósofos griegos buscaban respuestas lógicas y racionales sobre la naturaleza, la existencia y el ser humano. Gracias a esta forma de pensar, uno de los principales beneficios de la filosofía griega fue el desarrollo del pensamiento crítico, que permitió el avance del conocimiento en áreas como la ciencia, la política y la ética, y sentó las bases del pensamiento moderno.",
+    "beneficios_1" : "Uno de los grandes beneficios de la filosofía griega fue el impulso al desarrollo de la democracia y la reflexión política. Filósofos como Sócrates, Platón y Aristóteles analizaron cómo debía organizarse la sociedad, qué es la justicia y cuál es el papel del ciudadano. Estas ideas ayudaron a formar los principios de la participación ciudadana, el debate racional y la búsqueda del bien común, conceptos que siguen siendo fundamentales en muchas sociedades actuales.",
+    "momento_historia_1" : "Empieza la filosofía en Grecia, en la ciudad de Mileto (Asia Menor).",
+    "momento_historia_2" : "Tales de Mileto, Anaximandro y Anaxímenes buscan explicar el origen del mundo usando la razón, no los mitos.",
+    "momento_historia_3" : "Se forma la Escuela de Mileto (filosofía natural)."
+  },
+  "3": {
+    "titulo": "Filosofia Antigua",
+    "contenido_historia": "La filosofía medieval fue una forma de pensar muy importante que se desarrolló durante la Edad Media, un periodo que va desde el siglo V hasta el siglo XV. En esos tiempos, casi todo giraba alrededor de la religión, especialmente del cristianismo, por lo que los filósofos no solo se preguntaban cosas sobre el mundo, la vida o las personas, sino también sobre Dios, el cielo, el alma y cómo vivir de acuerdo con la fe. Esta filosofía mezclaba las ideas de antiguos pensadores, como Platón y Aristóteles, con las enseñanzas de la Biblia. Uno de los primeros grandes filósofos de esta época fue San Agustín, quien pensaba que Dios era la fuente de toda verdad y que las personas debían usar la razón para entender mejor su fe. Más adelante, otro pensador muy importante fue Santo Tomás de Aquino, quien trató de demostrar que la razón y la fe no se contradecían, sino que podían trabajar juntas para descubrir la verdad.",
+    
+    "titulo_filosofo_1": "Tales de Mileto",
+    "info_base_1" : "filósofo, matemático y astrónomo griego, considerado por muchos como el primer filósofo de la historia occidental.",
+    "contenido_1" :"Tales de Mileto fue un sabio griego que vivió entre los años 624 y 546 a. C. y es considerado el primer filósofo de la historia. Nació en la ciudad de Mileto, en la antigua Grecia, y fue también matemático, astrónomo e ingeniero. Fue el primero en buscar explicaciones del mundo usando la razón en lugar de los mitos, y pensaba que el agua era el origen de todas las cosas. También se le atribuye haber predicho un eclipse de sol y hacer importantes avances en geometría. Su forma de pensar marcó el comienzo de la filosofía y la ciencia occidental.",
+    "imagen_1" : "mileto_cont_1.jpg",
+
+    "titulo_filosofo_2": "San Agustin",
+    "info_base_2" : "fue uno de los pensadores más influyentes del cristianismo y de la filosofía occidental. Su obra marcó profundamente la teología cristiana, la ética, la filosofía medieval y la visión del ser humano.",
+    "contenido_2" :"San Agustín de Hipona fue un importante filósofo y teólogo cristiano que nació el 13 de noviembre del año 354 en Tagaste, una ciudad del norte de África (actual Argelia), y murió el 28 de agosto del año 430 en Hipona, también en África. Durante su juventud, llevó una vida inquieta y buscó la verdad en distintas religiones y filosofías. Más tarde se convirtió al cristianismo gracias, en parte, a las enseñanzas de su madre, Santa Mónica, y del obispo San Ambrosio. Luego de su conversión, se dedicó completamente a la fe, se hizo sacerdote y más tarde fue nombrado obispo de Hipona. Escribió muchas obras muy importantes, entre ellas Las Confesiones y La Ciudad de Dios, donde reflexionó sobre la vida, la fe, el alma, el pecado y Dios. San Agustín es considerado uno de los padres de la Iglesia y una de las figuras más influyentes de la filosofía cristiana.",
+    "imagen_2" : "agustin_cont_1.jpg",
+
+    "titulo_filosofo_3": "Anaximandro M.",
+    "info_base_3" : "primeros pensadores en intentar explicar el origen del cosmos y los fenómenos naturales sin recurrir a mitos o dioses.",
+    "contenido_3" :"Anaximandro de Mileto fue un filósofo griego nacido alrededor del año 610 a. C. en la ciudad de Mileto, en la antigua Grecia, y murió hacia el 546 a. C. Fue discípulo de Tales de Mileto y uno de los primeros pensadores en intentar explicar el origen del universo sin recurrir a los mitos. Anaximandro propuso que todo se originaba a partir de una sustancia eterna e infinita llamada ápeiron, que no era como el agua ni como ningún otro elemento conocido. También fue uno de los primeros en hablar de la evolución de los seres vivos y en hacer mapas del mundo conocido. Gracias a sus ideas, es considerado uno de los fundadores de la ciencia y la filosofía en Occidente.",
+    "imagen_3" : "anaxi_cont_1.jpg",
+
+    "titulo_filosofo_4": "Guillermo Ock.",
+    "info_base_4" : " teólogo y filósofo inglés muy influyente en la Edad Media. Es conocido principalmente por su pensamiento crítico, su defensa de la separación entre fe y razón",
+    "contenido_4" :"Guillermo de Ockham fue un fraile franciscano, filósofo y teólogo nacido alrededor del año 1287 en Ockham, un pequeño pueblo de Inglaterra, y murió en el año 1347. Es conocido por ser uno de los pensadores más importantes de la filosofía medieval, y por su forma clara y sencilla de explicar las ideas, lo que lo llevó a crear el principio llamado la navaja de Ockham, que dice que, para entender algo, no se deben usar más explicaciones de las necesarias. Estudió en la Universidad de Oxford y escribió muchas obras sobre lógica, teología y filosofía. A veces tuvo problemas con la Iglesia porque defendía que el poder del Papa debía estar separado del poder político, algo muy discutido en su época. A pesar de las dificultades, sus ideas influyeron mucho en el pensamiento moderno y en el desarrollo de la ciencia y la lógica.",
+    "imagen_4" : "guillermo_cont_1.jpg",
+
+    "titulo_filosofo_5": "Santo Thomas",
+    "info_base_5" : "pensadores más importantes de la Edad Media. Fue filósofo, teólogo y miembro de la Orden de los Dominicos.",
+    "contenido_5" :"Santo Tomás de Aquino fue un filósofo y teólogo cristiano nacido en Italia en el año 1225 y fallecido en 1274. Desde joven se dedicó al estudio y se unió a la orden de los dominicos. Es conocido por unir la fe cristiana con la razón, especialmente usando las ideas del filósofo griego Aristóteles. Escribió muchas obras, siendo la más famosa la Suma Teológica, donde explicó temas importantes sobre Dios, el alma, la moral y la verdad. Fue declarado santo y doctor de la Iglesia, y es una de las figuras más importantes de la filosofía escolástica",
+    "imagen_5" : "tomas_cont_1.jpg",
+
+    "titulo_filosofo_6": "Epicuro",
+    "info_base_6" : "Epicuro nació en la isla de Samos, Grecia, y fundó la escuela epicúrea en Atenas, conocida como El Jardín",
+    "contenido_6" :"Su filosofía se centraba en la búsqueda de la felicidad y la evitación del dolor. Epicuro creía que la felicidad se lograba viviendo una vida simple y moderada, rodeado de amigos y libres de miedo y ansiedad. Sus enseñanzas enfatizaban la importancia de la amistad, la virtud y la razón. Epicuro también desarrolló una teoría atomista del universo, influenciada por Demócrito.",
+    "imagen_6" : "epicuro_1.jpg",
+
+    "titulo_filosofo_7": "Aristoteles",
+    "info_base_7" : "Aristóteles nació en Estagira, Macedonia, y fue discípulo de Platón en la Academia de Atenas",
+    "contenido_7" :"Después de la muerte de Platón, Aristóteles se convirtió en tutor de Alejandro Magno y más tarde fundó su propia escuela, el Liceo. Aristóteles fue un filósofo y científico polifacético que hizo contribuciones significativas en lógica, metafísica, ética, biología y política. Sus obras más famosas incluyen Metafísica, Ética a Nicómaco y Política. Aristóteles creía en la observación y la experiencia como base del conocimiento y desarrolló un sistema de clasificación de los seres vivos que se utilizó durante siglos.",
+    "imagen_7" : "aristoteles_1.jpg",
+
+    "titulo_filosofo_8": "Diogenes",
+    "info_base_8" : "Diógenes nació en Sinope, en el Mar Negro, y se convirtió en uno de los filósofos cínicos más famosos",
+    "contenido_8" :"Rechazaba la riqueza y el lujo, y defendía una vida simple y virtuosa. Diógenes vivió en una tinaja en las calles de Atenas, donde practicaba la autosuficiencia y la indiferencia hacia las comodidades materiales. Su filosofía se centraba en la virtud y la libertad individual, y creía que la gente debía vivir de acuerdo con la naturaleza. Diógenes era conocido por sus críticas mordaces a la sociedad y su estilo de vida radical",
+    "imagen_8" : "diogenes_1.jpg",
+
+    "titulo_filosofo_9": "Plotino",
+    "info_base_9" : "Plotino nació en Egipto y estudió filosofía en Alejandría antes de convertirse en discípulo de Ammonio Saccas",
+    "contenido_9" :"Más tarde se estableció en Roma, donde fundó una escuela neoplatónica. La filosofía de Plotino se centraba en la metafísica y la espiritualidad, y desarrolló una compleja teoría de las tres hipóstasis: lo Uno, el Nous y el Alma. Plotino creía que el objetivo de la vida era alcanzar la unión con lo divino y que la realidad material era solo una sombra de la verdadera realidad espiritual. Sus obras más famosas incluyen las Enéadas, que fueron compiladas por su discípulo Porfirio.",
+    "imagen_9" : "plotino_1.jpg",
+
+    "titulo_filosofo_10": "Heraclito",
+    "info_base_10" : "Heráclito nació en Éfeso, en la costa jónica de Asia Menor",
+    "contenido_10" :"Su filosofía se centraba en la idea de que todo fluye y que la realidad es dinámica y cambiante. Heráclito creía que el universo estaba gobernado por el logos, una fuerza racional que subyacía a todos los fenómenos. Su famosa frase Nadie se baña dos veces en el mismo río resume su visión del mundo como un lugar en constante cambio. Heráclito también creía en la unidad de los opuestos y que la realidad era una lucha constante entre fuerzas contradictorias. Sus enseñanzas fueron recopiladas en forma de fragmentos y aforismos que han influido en la filosofía occidental durante siglos.",
+    "imagen_10" : "heraclito_1.jpg",
+
+    "carateristica_1": "La filosofía antigua se distingue por su énfasis en el uso de la razón y la observación para comprender el mundo y la existencia humana, dejando atrás las explicaciones basadas en mitos. Los filósofos buscaban respuestas universales sobre la naturaleza, el conocimiento, la ética y la sociedad mediante el diálogo y la reflexión crítica.",
+    "beneficios_1" : "Entre los beneficios de la filosofía antigua está el desarrollo del pensamiento crítico y lógico, que permitió sentar las bases de la ciencia, la ética y la política. Sus enseñanzas influyeron en la formación de valores y sistemas de conocimiento que han guiado el pensamiento occidental hasta la actualidad.",
+    "momento_historia_1" : "San Agustín de Hipona desarrolla gran parte de su pensamiento filosófico y teológico.",
+    "momento_historia_2" : "Se destaca la fusión entre filosofía griega y cristianismo",
+    "momento_historia_3" : "Comienza el enfoque en Dios como centro del conocimiento."
+  },
+  "4": {
+    "titulo": "Filosofia Moderna",
+    "contenido_historia": "La filosofía moderna comenzó en Europa entre los siglos XVI y XVII, en una época en la que muchas personas empezaron a cuestionar las creencias antiguas y a usar la razón, la observación y el pensamiento crítico para entender el mundo. Antes, casi todo se explicaba con la religión, pero ahora los filósofos querían buscar respuestas usando la lógica y la ciencia. Por ejemplo, René Descartes decía: Pienso, luego existo y con eso quería decir que lo más seguro que tenemos es nuestra capacidad de pensar. Otros filósofos importantes como John Locke hablaron sobre los derechos de las personas, como la libertad y la igualdad, y Jean-Jacques Rousseau pensaba en cómo debería ser un buen gobierno. Todos ellos ayudaron a construir ideas que hoy usamos para hablar de democracia, justicia, y educación. Para los niños y niñas de primaria, la filosofía moderna enseña que es importante hacer preguntas, pensar por uno mismo y respetar a los demás mientras se busca la verdad.",
+    
+    "titulo_filosofo_1": "Immanuel Kant",
+    "info_base_1" : "fue un filósofo alemán fundamental para la filosofía moderna y la ética",
+    "contenido_1" :"Kant nació en la ciudad de Königsberg y fue uno de los pensadores más importantes de todos los tiempos. Desde pequeño fue muy estudioso y vivió toda su vida en la misma ciudad. Fue famoso por decir que el conocimiento no viene solo de lo que vemos o tocamos, sino también de cómo nuestra mente organiza la información. En ética, enseñó que debemos actuar por deber, haciendo lo correcto incluso cuando no nos conviene. Su obra más conocida se llama Crítica de la razón pura. Kant cambió la forma en que las personas pensaban sobre el conocimiento, la moral y la libertad.",
+    "imagen_1" : "kant_cont_1.jpg",
+
+    "titulo_filosofo_2": "René Descartes",
+    "info_base_2" : "fue un filósofo, matemático y científico francés, conocido como el padre de la filosofía moderna.",
+    "contenido_2" :"René Descartes fue un gran filósofo, matemático y científico. Nació en Francia y vivió en varios países europeos. Es conocido como el padre de la filosofía moderna porque rompió con muchas ideas antiguas. Propuso empezar a pensar desde cero, dudando de todo lo que no fuera seguro. De ahí viene su frase famosa: Pienso, luego existo También creó una forma de unir las matemáticas con la filosofía. Además, hizo aportes importantes a la geometría. Murió en Suecia, donde enseñaba a una reina.",
+    "imagen_2" : "rene_cont_1.jpg",
+
+    "titulo_filosofo_3": "John Locke",
+    "info_base_3" : "fue un filósofo inglés fundamental en la filosofía moderna y el liberalismo político.",
+    "contenido_3" :"Locke fue un pensador inglés que influyó mucho en la política y la educación. Creía que las personas nacen sin ideas, como una “tabla en blanco”, y que todo lo aprenden por medio de la experiencia. Defendió la libertad de pensamiento, la tolerancia y los derechos naturales, como el derecho a la vida, a la libertad y a tener propiedad. Sus ideas ayudaron a inspirar revoluciones democráticas como la de Estados Unidos. También escribió sobre cómo educar bien a los niños para que sean libres y responsables.",
+    "imagen_3" : "john_l_cont_1.jpg",
+
+    "titulo_filosofo_4": "David Hume",
+    "info_base_4" : "fue un filósofo escocés fundamental en la filosofía moderna, especialmente en el empirismo y el escepticismo.",
+    "contenido_4" :"Hume fue un filósofo escocés que creía que la experiencia es la base del conocimiento. Para él, no nacemos sabiendo nada; todo lo aprendemos al vivir, ver y sentir. Era muy escéptico, lo que significa que dudaba de las ideas que no se podían comprobar con hechos. También pensaba que la razón sola no puede guiar nuestras acciones: necesitamos emociones y sentimientos. Hume escribió libros sobre historia y filosofía que influyeron en muchos pensadores posteriores.",
+    "imagen_4" : "david_cont_1.jpg",
+
+    "titulo_filosofo_5": "Baruch Spinoza",
+    "info_base_5" : "un filósofo neerlandés de origen judío, considerado uno de los grandes racionalistas de la filosofía moderna.",
+    "contenido_5" :"Spinoza fue un filósofo nacido en Ámsterdam, de familia judía. Fue muy valiente porque en su tiempo decir cosas diferentes sobre Dios o la religión podía ser peligroso. Él decía que Dios no está fuera del mundo, sino que está en todo: en la naturaleza, en las personas y en el universo. También creía que la razón es la mejor forma de entender nuestras emociones y vivir con libertad. Fue rechazado por su comunidad, pero hoy se lo considera uno de los grandes pensadores sobre la libertad y la naturaleza humana.",
+    "imagen_5" : "baruch_cont_1.jpg",
+
+    "titulo_filosofo_6": "Thomas Hobbes",
+    "info_base_6" : "Thomas Hobbes fue un filósofo inglés que perteneció a la corriente filosófica del empirismo.",
+    "contenido_6" :"Su obra más importante es El Leviatán, donde plantea un pensamiento absolutista de la política y defiende el contrato social. Hobbes creía que la naturaleza humana es egoísta y que la única forma de mantener el orden es a través de un gobierno fuerte y centralizado.",
+    "imagen_6" : "thomas_1.jpg",
+
+    "titulo_filosofo_7": "Francis Bacon",
+    "info_base_7" : "Francis Bacon fue un filósofo y científico inglés que es considerado el padre del empirismo inglés",
+    "contenido_7" :"Francis Bacon fue un filósofo y científico inglés que es considerado el padre del empirismo inglés. Creía que la verdad solo se puede alcanzar a través de hechos empíricos y desarrolló el método inductivo para llegar a la verdad. Bacon también fue un defensor de la ciencia experimental y su obra Novum Organum es considerada una de las más importantes de la historia de la ciencia.",
+    "imagen_7" : "francis_1.jpg",
+
+    "titulo_filosofo_8": "Voltaire",
+    "info_base_8" : "Voltaire fue un filósofo y escritor francés que fue uno de los principales representantes de la Ilustración",
+    "contenido_8" :"Voltaire fue un filósofo y escritor francés que fue uno de los principales representantes de la Ilustración. Defendió el derecho de los hombres a defender sus ideas y creía en la razón y la tolerancia. Voltaire también fue un crítico del absolutismo y la intervención de Dios en los asuntos humanos.",
+    "imagen_8" : "voltaire_1.jpg",
+
+    "titulo_filosofo_9": "Gottfried Wilhelm",
+    "info_base_9" : "Empédocles fue un filósofo presocrático que desarrolló una teoría de los cuatro elementos ",
+    "contenido_9" :"Gottfried Wilhelm Leibniz fue un filósofo y matemático alemán que desarrolló el concepto de la monadología y el cálculo infinitesimal. Leibniz creía en la existencia de un Dios benevolente que creó un universo perfecto y armónico. También fue un defensor de la reconciliación entre la fe y la razón.",
+    "imagen_9" : "gol_1.jpg",
+
+    "titulo_filosofo_10": "Jean-Jacques",
+    "info_base_10" : "Jean-Jacques Rousseau fue un filósofo y escritor suizo que es considerado uno de los precursores del Romanticismo y de la Revolución Francesa",
+    "contenido_10" :"Jean-Jacques Rousseau fue un filósofo y escritor suizo que es considerado uno de los precursores del Romanticismo y de la Revolución Francesa. Defendió la idea del contrato social y la democracia, y su obra El contrato social sembró los cimientos de la democracia moderna. Rousseau también creía en la bondad natural del hombre y en la importancia de la educación.",
+    "imagen_10" : "jean_1.jpg",
+
+    "carateristica_1": "La filosofía moderna se caracteriza por el énfasis en la razón, el método científico y el pensamiento crítico como herramientas para conocer la realidad. Se centra en el individuo, la libertad y la autonomía del pensamiento, cuestionando las autoridades tradicionales y las verdades absolutas. Además, busca explicar el mundo a través de la experiencia y la reflexión racional, desarrollando nuevas corrientes como el racionalismo, el empirismo y el idealismo.",
+    "beneficios_1" : "Entre los beneficios de la filosofía moderna destaca el avance del conocimiento científico y tecnológico, así como el fortalecimiento de valores como la libertad, la igualdad y los derechos humanos. Esta filosofía sentó las bases del pensamiento crítico y la democracia moderna, promoviendo la autonomía intelectual y la capacidad del ser humano para transformar su entorno mediante la razón y la innovación.",
+    "momento_historia_1" : "Fin de la Edad Media y comienzo del Renacimiento. Los filósofos empiezan a centrarse más en el ser humano, la naturaleza y el conocimiento, dejando un poco de lado la religión.",
+    "momento_historia_2" : "Nicolás de Cusa plantea ideas nuevas sobre el universo y el conocimiento, anticipando cambios futuros.",
+    "momento_historia_3" : "Renacimiento y Humanismo.Se recuperan las ideas de los antiguos griegos y romanos."
+  }
+}
