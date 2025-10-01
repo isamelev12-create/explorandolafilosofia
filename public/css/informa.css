@@ -1,0 +1,80 @@
+.seccion-principal {
+    background: linear-gradient(145deg, #1f1f1f, #2c2c2c);
+}
+.subseccio-principal{
+    color:#bbbbbb;
+    margin-left: 30px;
+    /*width: 55%;*/
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    min-height: 400px;
+}
+.mult{
+    color:#bbbbbb;
+    margin-left: 30px;
+    width: 55%;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+}
+.seccion-principal h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color:#ffffff;
+ 
+
+}
+
+.descripcion {
+    text-align: center;
+    font-size: 1.1rem;
+    margin-bottom: 30px;
+    color: #ccc;
+
+}
+
+.subsecciones {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+
+}
+
+.subsecciones li{
+    width: 90%;
+    margin-left: 30px;
+}
+
+.subseccion {
+    width: 100%;
+    min-height: 400px;
+    flex: 1 1 200px;
+    border: 1px solid white;
+    border-radius: 16px;
+    padding: 20px;
+    background-color: #1b1b1b;
+    transition: transform 0.3s, box-shadow 0.3s;
+
+}
+
+.subseccion:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 5px white;
+
+}
+
+.subseccion h2 {
+    margin-top: 0;
+    color: #ffffff;
+
+}
+
+.subseccion p {
+    color: #bbbbbb;
+    font-size: 19px;
+    margin-top: 20px;
+}

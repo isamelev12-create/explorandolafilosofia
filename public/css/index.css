@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#svgContainer svg {
+  transform-origin: top center;
+  transform: scaleX(1.6) scaleY(1.585);
+}
+
+#svgContainer{
+  width: 100%;
+  height: 100%;
+  overflow: hidden; 
+}
+
+#svgContainer:hover #personaje11,
+#svgContainer:hover #personaje22_1_,
+#svgContainer:hover #personaje33,
+#svgContainer:hover #personaje44 {
+  filter: brightness(0.5);
+  transition: filter 0.3s ease;
+}
+
+#svgContainer #personaje11:hover,
+#svgContainer #personaje22_1_:hover,
+#svgContainer #personaje33:hover,
+#svgContainer #personaje44:hover {
+  filter: brightness(1) saturate(1.5);
+  transform: scale(1.005);
+  transition: filter 0.3s ease, transform 0.3s ease;
+  cursor: pointer;
+}
+

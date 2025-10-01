@@ -1,0 +1,55 @@
+
+#svgContainer{
+    width: 50%;
+    bottom: 0;
+    left: 0;
+    display: inline-block;
+    height: auto;
+    z-index: 10;
+    text-align: right;
+    transform-origin: bottom center;
+  }
+
+ #svgContainer svg {
+    margin-top: 33px;
+    margin-right: 130px;
+    transform: scale(1.6);
+}
+
+#svgContainer #capa1:hover,
+#svgContainer #capa2:hover,
+#svgContainer #capa3:hover,
+#svgContainer #capa4:hover,
+#svgContainer #capa5:hover {
+  transform: scale(1.005);
+  cursor: pointer;
+}
+
+#svgContainer #capa1,
+#svgContainer #capa2,
+#svgContainer #capa3,
+#svgContainer #capa4,
+#svgContainer #capa5  {
+  transition: transform 0.3s ease;
+}
+
+.container {
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      background-image: url('../img/fondo_1.png');
+      background-repeat: repeat;      
+      background-position: center center; 
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.titulo{
+  padding-top: 5%;
+  text-align: left;
+  margin-left: 80px;
+}
