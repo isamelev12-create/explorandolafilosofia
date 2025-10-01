@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Inicio</title>
+  <link rel="stylesheet" href="../css/index.css">
+  <link rel="stylesheet" href="../css/nav_main.css">
+  
+</head>
+<body>
+  
+  <nav>
+    <ul>
+      <li><a href="#seccion1">Filosofias</a>
+      <ul class="submenu">
+        <li><a href="http://localhost:3000/opcion/3">F. Antigua</a></li>
+        <li><a href="http://localhost:3000/opcion/4">F. Moderna</a></li>
+        <li><a href="http://localhost:3000/opcion/2">F. Griega</a></li>
+        <li><a href="http://localhost:3000/opcion/1">F. Contemp</a></li>
+      </ul>
+      </li>
+      <li><a href="#seccion2">Materiales</a>
+      <ul class="submenu">
+        <li><a href="#" onclick="event.preventDefault(); openModal('libros')">Libros</a></li>
+        <li><a href="#" onclick="event.preventDefault(); openModal('videos')">Videos</a></li>
+      </ul>
+      </li>
+      <li><a href="#" onclick="event.preventDefault(); openModal('quiz')">Quiz</a></li>
+      <li><a href="#" onclick="event.preventDefault(); openModal('nosotros')">Sobre Nosotros</a></li>
+    </ul>
+  </nav>
+  <div id="svgContainer"></div>
+  <script> window.nameSvg = "<%= name_svg %>"; </script>
+  <script src="/script/load_svg.js"></script>
+  <script src="/script/modal.js"></script>
+  <div id="videos" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal('videos')">&times;</span>
+    <h1>Material Audio Visual</h1>
+    <div class="video-grid">
+      <div class="video-wrapper">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/zddceIk0mew?si=jk8Bq4GykfYFlyDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <h3>Video 1: Filosofía Antigua</h3>
+      </div>
+      <div class="video-wrapper">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/PAjYBLkNL7I?si=TssbD_UdO2oGy85R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <h3>Video 2: Filosofía Moderna</h3>
+      </div>
+      <div class="video-wrapper">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/xTM1g-GBr1g?si=kgaU2jv5XC-pxJW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <h3>Video 3: Filosofía Griega</h3>
+      </div>
+      <div class="video-wrapper">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/MfcMncE59Ag?si=zB_QgOHqVoOR0yEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <h3>Video 4: Filosofía Contemporánea</h3>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="nosotros" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal('nosotros')">&times;</span>
+    <h1>Explorando la filosofía es una página creada por:</h1>
+    <div class="video-grid">
+      <div class="video-wrapper">
+        <img src="/img/femenino.png" alt="femenino 1" class="femnino-img" />
+        <h2>Edgar Jeanpier Pinzon</h2>
+      </div>
+      <div class="video-wrapper">
+        <img src="/img/masculino.png" alt="masculino 1" class="masculino-img" />
+        <h2>Carol Nathalia Cardenas </h2>
+      </div>
+    </div>
+    <h4>estudiantes de once grado jornada tarde de la institución educativa General Santander , ambos estamos en la modalidad una técnica en sistemas y tele informática Juntos nos encargamos de conseguir todo el material de la página y ajustar las bitácoras y de crear el código de la página</h4>
+  </div>
+</div>
+
+<div id="quiz" class="modal" >
+  <div class="modal-content" style="max-width: 1500px;">
+    <span class="close" onclick="closeModal('quiz')">&times;</span>
+    <iframe src="/quizzes.html" width="100%" height="500px" frameborder="0" style="height: 600px;"></iframe>
+  </div>
+</div>
+
+<div id="libros" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal('libros')">&times;</span>
+    <h1>Material de Estudio</h1>
+    <div class="libros-grid">
+      <div class="libro-item">
+        <img src="/img/1903164.png" alt="Libro 1" class="libro-img" />
+        <div class="libro-title">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+            <path d="M18 2H6a2 2 0 0 0-2 2v16a1 1 0 0 0 1.447.894L12 17.618l6.553 3.276A1 1 0 0 0 20 20V4a2 2 0 0 0-2-2zM7 4h10v14.382l-5-2.5-5 2.5V4z"/>
+          </svg>
+          Libro 1: Filosofía Moderna
+        </div>
+        <a href="/pdf/43883_Historia_de_la_filosofia_moderna.pdf" download="Filosofia_Moderna.pdf" class="btn-descargar">Descargar</a>
+      </div>
+      
+      <div class="libro-item">
+        <img src="/img/1903164.png" alt="Libro 2" class="libro-img" />
+        <div class="libro-title">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+            <path d="M18 2H6a2 2 0 0 0-2 2v16a1 1 0 0 0 1.447.894L12 17.618l6.553 3.276A1 1 0 0 0 20 20V4a2 2 0 0 0-2-2zM7 4h10v14.382l-5-2.5-5 2.5V4z"/>
+          </svg>
+          Libro 2: Filosofía Antigua
+        </div>
+        <a href="/pdf/dea_21679_31_492_4_2__Ecos_de_filosofia_antigua.pdf" download="Filosofia_antigua.pdf" class="btn-descargar">Descargar</a>
+      </div>
+      
+      <div class="libro-item">
+        <img src="/img/1903164.png" alt="Libro 3" class="libro-img" />
+        <div class="libro-title">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+            <path d="M18 2H6a2 2 0 0 0-2 2v16a1 1 0 0 0 1.447.894L12 17.618l6.553 3.276A1 1 0 0 0 20 20V4a2 2 0 0 0-2-2zM7 4h10v14.382l-5-2.5-5 2.5V4z"/>
+          </svg>
+          Libro 3: Historia Filosofia Griega
+        </div>
+        <a href="/pdf/F4A304E8-570C-11ED-98B6-F9A8FA36A65D.pdf" download="Historia_Filosofia_griega.pdf" class="btn-descargar">Descargar</a>
+      </div>
+      
+      <div class="libro-item">
+        <img src="/img/1903164.png" alt="Libro 4" class="libro-img" />
+        <div class="libro-title">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+            <path d="M18 2H6a2 2 0 0 0-2 2v16a1 1 0 0 0 1.447.894L12 17.618l6.553 3.276A1 1 0 0 0 20 20V4a2 2 0 0 0-2-2zM7 4h10v14.382l-5-2.5-5 2.5V4z"/>
+          </svg>
+          Libro 4: Filosofía Antigua
+        </div>
+        <a href="/pdf/Filosofia-Antigua-Grenet.pdf" download="Historia_Filosofia_antigua.pdf" class="btn-descargar">Descargar</a>
+      </div>
+
+      <div class="libro-item">
+        <img src="/img/1903164.png" alt="Libro 5" class="libro-img" />
+        <div class="libro-title">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+            <path d="M18 2H6a2 2 0 0 0-2 2v16a1 1 0 0 0 1.447.894L12 17.618l6.553 3.276A1 1 0 0 0 20 20V4a2 2 0 0 0-2-2zM7 4h10v14.382l-5-2.5-5 2.5V4z"/>
+          </svg>
+          Libro 5: Historia de la Filosofia Moderna
+        </div>
+        <a href="/pdf/Historia_de_la_filosofía_moderna_(IA_historiadelafilo01hoff).pdf" download="Historia_filosofia_moderna" class="btn-descargar">Descargar</a>
+      </div>
+
+      <div class="libro-item">
+        <img src="/img/1903164.png" alt="Libro 6" class="libro-img" />
+        <div class="libro-title">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+            <path d="M18 2H6a2 2 0 0 0-2 2v16a1 1 0 0 0 1.447.894L12 17.618l6.553 3.276A1 1 0 0 0 20 20V4a2 2 0 0 0-2-2zM7 4h10v14.382l-5-2.5-5 2.5V4z"/>
+          </svg>
+          Libro 6: 1948 Filosofia Griega
+        </div>
+        <a href="/pdf/Julio Casal Munoz - 1948 - Filosofia griega.pdf" download="1948_filofosia_griega" class="btn-descargar">Descargar</a>
+      </div>
+
+      <div class="libro-item">
+        <img src="/img/1903164.png" alt="Libro 7" class="libro-img" />
+        <div class="libro-title">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+            <path d="M18 2H6a2 2 0 0 0-2 2v16a1 1 0 0 0 1.447.894L12 17.618l6.553 3.276A1 1 0 0 0 20 20V4a2 2 0 0 0-2-2zM7 4h10v14.382l-5-2.5-5 2.5V4z"/>
+          </svg>
+          Libro 7: Pensamiento contemporáneo
+        </div>
+        <a href="/pdf/Pensamiento filosófico contemporáneo.pdf" download="pensamiento_contemporaneo" class="btn-descargar">Descargar</a>
+      </div>
+
+      <div class="libro-item">
+        <img src="/img/1903164.png" alt="Libro 8" class="libro-img" />
+        <div class="libro-title">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+            <path d="M18 2H6a2 2 0 0 0-2 2v16a1 1 0 0 0 1.447.894L12 17.618l6.553 3.276A1 1 0 0 0 20 20V4a2 2 0 0 0-2-2zM7 4h10v14.382l-5-2.5-5 2.5V4z"/>
+          </svg>
+          Libro 8: Enfoque Contemporánea
+        </div>
+        <a href="/pdf/Perspectivas-y-problemas-de-la-filosofia-contemporanea.pdf" download="pp_f_contemp" class="btn-descargar">Descargar</a>
+      </div>
+
+    </div>
+    </div>
+  </div>
+</div>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const enlacesDescarga = document.querySelectorAll(".btn-descargar");
+
+    enlacesDescarga.forEach(function (enlace) {
+      enlace.addEventListener("click", function (e) {
+        const nombreArchivo = this.getAttribute("download") || this.getAttribute("href").split('/').pop();
+        console.log(`Iniciando descarga de: ${nombreArchivo}`);
+      });
+    });
+  });
+</script>
+
+</body>
+</html>

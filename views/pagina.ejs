@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Página con Scroll Suave</title>
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/nav.css">
+  <link rel="stylesheet" href="../css/galery.css">
+  <link rel="stylesheet" href="../css/target.css">
+  <link rel="stylesheet" href="../css/informa.css">
+  <link rel="stylesheet" href="../css/crucigrama.css">
+</head>
+<body class="container fade-in">
+  <nav>
+    <div class="logo"><%= data.titulo %></div>
+    <ul>
+      <li><a href="#seccion1">Historia</a></li>
+      <li><a href="#seccion2">Biografias</a></li>
+      <li><a href="#seccion3">Caracteristicas</a></li>
+      <li><a href="/">Volver</a></li>
+    </ul>
+  </nav>
+
+  <section id="seccion1">
+    <div class="carousel-container">
+      <div class="carousel">
+        <div class="carousel-track">
+          <div class="carousel-slide">
+            <img src="../img/fondo_1.jpg" alt="Imagen 1" class="carousel-item">
+            <div class="overlay"></div>
+          </div>
+          <div class="carousel-slide">
+            <img src="../img/fondo_2.jpg" alt="Imagen 2" class="carousel-item">
+            <div class="overlay"></div>
+          </div>
+          <div class="carousel-slide">
+            <img src="../img/fondo_3.jpg" alt="Imagen 3" class="carousel-item">
+            <div class="overlay"></div>
+          </div>
+          <div class="carousel-slide">
+            <img src="../img/fondo_4.jpg" alt="Imagen 3" class="carousel-item">
+            <div class="overlay"></div>
+          </div>
+        </div>
+        <button class="carousel-btn prev">&#10094;</button>
+        <button class="carousel-btn next">&#10095;</button>
+      </div>
+      <div class="content-info">
+        <p>Historia</p>
+        <div><%= data.contenido_historia %></div>
+      </div>
+    </div>
+    <script src="../script/galeria.js"></script>
+  </section>
+
+  <section id="seccion2">
+    <h1 class="titulo-filosfos">Filosofos influyentes</h1>
+    <div class="card-container">
+      <div class="card">
+        <h3><%= data.titulo_filosofo_1 %></h3>
+        <img src="../img/<%= data.imagen_1 %>" height="50" alt="Imagen 3" class="card-item">
+        <a href="#seccion2" class="card-btn" onclick="openModal('modal1')">+</a>
+        <p><%= data.info_base_1 %></p>
+        
+      </div>
+      <div class="card">
+        <h3><%= data.titulo_filosofo_2 %></h3>
+        <img src="../img/<%= data.imagen_2 %>" alt="Imagen 3" class="card-item">
+        <a href="#seccion2" class="card-btn" onclick="openModal('modal2')">+</a>
+        <p><%= data.info_base_2 %></p>
+      </div>
+      <div class="card">
+        <h3><%= data.titulo_filosofo_3 %></h3>
+        <img src="../img/<%= data.imagen_3 %>" alt="Imagen 3" class="card-item">
+        <a href="#seccion2" class="card-btn" onclick="openModal('modal3')">+</a>
+        <p><%= data.info_base_3 %></p>
+      </div>
+      <div class="card">
+        <h3><%= data.titulo_filosofo_4 %></h3>
+        <img src="../img/<%= data.imagen_4 %>" alt="Imagen 3" class="card-item">
+        <a href="#seccion2" class="card-btn" onclick="openModal('modal4')">+</a>
+        <p><%= data.info_base_4 %></p>
+      </div>
+      <div class="card">
+        <h3><%= data.titulo_filosofo_5 %></h3>
+        <img src="../img/<%= data.imagen_5 %>" alt="Imagen 3" class="card-item">
+        <a href="#seccion2" class="card-btn" onclick="openModal('modal5')">+</a>
+        <p><%= data.info_base_5 %></p>
+      </div>
+      <div class="card">
+        <h3><%= data.titulo_filosofo_6%></h3>
+        <img src="../img/<%= data.imagen_6%>" alt="Imagen 3" class="card-item">
+        <a href="#seccion2" class="card-btn" onclick="openModal('modal6')">+</a>
+        <p><%= data.info_base_6 %></p>
+      </div>
+      <div class="card">
+        <h3><%= data.titulo_filosofo_7 %></h3>
+        <img src="../img/<%= data.imagen_7 %>" alt="Imagen 3" class="card-item">
+        <a href="#seccion2" class="card-btn" onclick="openModal('modal7')">+</a>
+        <p><%= data.info_base_7 %></p>
+      </div>
+      <div class="card">
+        <h3><%= data.titulo_filosofo_8 %></h3>
+        <img src="../img/<%= data.imagen_8 %>" alt="Imagen 3" class="card-item">
+        <a href="#seccion2" class="card-btn" onclick="openModal('modal8')">+</a>
+        <p><%= data.info_base_8 %></p>
+      </div>
+      <div class="card">
+        <h3><%= data.titulo_filosofo_9 %></h3>
+        <img src="../img/<%= data.imagen_9 %>" alt="Imagen 3" class="card-item">
+        <a href="#seccion2" class="card-btn" onclick="openModal('modal9')">+</a>
+        <p><%= data.info_base_9 %></p>
+      </div>
+      <div class="card">
+        <h3><%= data.titulo_filosofo_10 %></h3>
+        <img src="../img/<%= data.imagen_10 %>" alt="Imagen 3" class="card-item">
+        <a href="#seccion2" class="card-btn" onclick="openModal('modal10')">+</a>
+        <p><%= data.info_base_10 %></p>
+      </div>
+    </div>
+  </section>
+  <div id="modal1" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal('modal1')">&times;</span>
+      <p><%= data.contenido_1 %></p>
+    </div>
+  </div>
+
+  <div id="modal2" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal('modal2')">&times;</span>
+      <p><%= data.contenido_2 %></p>
+    </div>
+  </div>
+
+  <div id="modal3" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal('modal3')">&times;</span>
+      <p><%= data.contenido_3 %></p>
+    </div>
+  </div>
+
+  <div id="modal4" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal('modal4')">&times;</span>
+      <p><%= data.contenido_4 %></p>
+    </div>
+  </div>
+  <div id="modal5" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal('modal5')">&times;</span>
+      <p><%= data.contenido_5 %></p>
+    </div>
+  </div>
+
+    <div id="modal6" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal('modal6')">&times;</span>
+      <p><%= data.contenido_6 %></p>
+    </div>
+  </div>
+
+    <div id="modal7" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal('modal7')">&times;</span>
+      <p><%= data.contenido_7 %></p>
+    </div>
+  </div>
+
+    <div id="modal8" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal('modal8')">&times;</span>
+      <p><%= data.contenido_8 %></p>
+    </div>
+  </div>
+
+    <div id="modal9" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal('modal9')">&times;</span>
+      <p><%= data.contenido_9 %></p>
+    </div>
+  </div>
+
+    <div id="modal10" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal('modal10')">&times;</span>
+      <p><%= data.contenido_10 %></p>
+    </div>
+  </div>
+
+  
+  <script src="../script/modal.js"></script>
+  <section id="seccion3" class="seccion-principal">
+    <div class="subsecciones">
+      <div class="subseccion">
+        <h2>Características Destacadas</h2>
+        <p><%= data.carateristica_1 %></p>
+      </div>
+      <div class="subseccion">
+        <h2>Beneficios Clave</h2>
+        <p><%= data.beneficios_1 %></p>
+      </div>
+    <div class="subseccion">
+      <h1>Momentos en la historia</h1>
+      <ul>
+        <li><p><%= data.momento_historia_1 %></p></li>
+        <li><p><%= data.momento_historia_2 %></p></li>
+        <li><p><%= data.momento_historia_3 %></p></li>
+      </ul>
+    </div>
+    </div>
+  </section>
+<!---
+  <section id="seccion4">
+    <div>
+      <h1>Crucigrama Interactivo</h1>
+      <div id="crucigrama"></div>
+      <button onclick="validar()">Validar respuestas</button>
+    </div>
+    <div id="pistas">
+      <h2>Pregunts Horizontales</h2>
+      <ul id="pistas-horizontales"></ul>
+      <h2>Preguntas Verticales</h2>
+      <ul id="pistas-verticales"></ul>
+    </div>
+    <div>
+      <h2>Material de estudio</h2>
+    </div>
+    <script src="../script/crucigrama.js"></script>
+    <div id="svgContainer"></div>
+    <script src="../public/script_1.js"></script>
+  </section>
+-->
+</body>
+</html>
